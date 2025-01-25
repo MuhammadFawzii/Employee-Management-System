@@ -23,7 +23,7 @@ The application is built using **Object-Oriented Programming (OOP) concepts**, e
 
 You can download the project files by clicking the link below:
 
-- **[Download Employee Management PDF](/Employee_Management.pdf)**
+- **[Download Employee Management PDF](/Employee%20Management.pdf)**
 
 ```plaintext
 - **Department**
