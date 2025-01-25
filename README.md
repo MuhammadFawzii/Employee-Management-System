@@ -4,6 +4,8 @@
 
 This repository contains the implementation of an Employee Management Application as part of a programming assignment. The application is designed to manage employees, departments, projects, and budgets. It provides functionalities to add, edit, delete, and search for employees, calculate payroll, manage departments, and handle project budgets.
 
+The application is built using **Object-Oriented Programming (OOP) concepts**, ensuring a modular, reusable, and maintainable codebase. Key OOP principles such as **encapsulation**, **inheritance**, **polymorphism**, and **abstraction** are applied throughout the design and implementation.
+
 ---
 
 ## Features
@@ -21,13 +23,7 @@ This repository contains the implementation of an Employee Management Applicatio
 
 You can download the project files by clicking the link below:
 
-**[Download Employee Management Application](INSERT_DOWNLOAD_LINK_HERE)**
-
----
-
-## Class Diagram
-
-The class diagram for the application is as follows:
+- **[Download Employee Management PDF](./Employee_Management.pdf)**
 
 ```plaintext
 - **Department**
@@ -104,5 +100,4 @@ The class diagram for the application is as follows:
   - id: int
   - value: double
   + increaseBudget(amount: double): void
-
-plaintext```
+```
